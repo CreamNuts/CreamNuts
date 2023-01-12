@@ -1,5 +1,5 @@
 [![CreamNuts's github stats](https://personal-stats-creamnuts.vercel.app/api?username=CreamNuts&show_icons=true&hide_border=true)](https://github.com/CreamNuts)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreamNuts&layout=compact)](https://github.com/CreamNuts)
+[![Top Langs](https://personal-stats-creamnuts.vercel.app/api/top-langs/?username=CreamNuts&layout=compact)](https://github.com/CreamNuts)
 <!--
 ### Hi there 👋
 
